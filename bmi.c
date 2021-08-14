@@ -23,6 +23,7 @@ int main(){
     {
      printf("Obesity\n");
     }
+    return 0;
 }
 
 
